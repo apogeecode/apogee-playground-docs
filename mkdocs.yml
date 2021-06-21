@@ -1,8 +1,8 @@
 site_name: Apogee Playground Documentation
 site_url: https://docs.playapogee.app/
 repo_name: GitHub
-repo_url: 
+repo_url: https://github.com/apogeecode/apogee-playground-docs
 site_description: Get started with Apogee Playground app here...
-site_author: Apogee Code OU
+site_author: Apogee Code OÜ
 copyright: © 2021 Apogee Code OÜ. All rights reserved
 theme: readthedocs
