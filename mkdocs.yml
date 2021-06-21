@@ -1,8 +1,126 @@
 site_name: Apogee Playground Documentation
-site_url: https://docs.playapogee.app/
-repo_name: GitHub
-repo_url: https://github.com/apogeecode/apogee-playground-docs
+site_url: https://www.playapogee.app/
+# repo_url: https://github.com/apogeecode/apogee-playground-docs
 site_description: Get started with Apogee Playground app here...
 site_author: Apogee Code OÜ
 copyright: © 2021 Apogee Code OÜ. All rights reserved
-theme: readthedocs
+
+theme:
+  name: material
+
+  favicon: images/favicon.png
+  logo: images/circle-black.svg
+
+  font:
+    text: Montserrat
+    code: Roboto Mono
+
+  features:
+    - header.autohide
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.tabs.link
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: pink
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: cyan
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+extra:
+  version:
+    provider: mike
+
+  analytics:
+    provider: google
+    property: G-ZLFG32HBFF
+
+  # alternate:
+  #   - name: English
+  #     link: https://docs.playapogee.app/en/
+  #     lang: en
+
+  #   - name: Eesti
+  #     link: https://docs.playapogee.app/et/
+  #     lang: de
+
+  #   - name: Pусский
+  #     link: https://docs.playapogee.app/ru/
+  #     lang: ja
+  
+  social:
+    - icon: octicons/mail-24
+      link: mailto:contact@apogee.codes
+      name: Contact us
+
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/playapogee/
+      name: PlayApogee on Instagram
+
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/PlayApogee
+      name: PlayApogee on Facebook
+
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/PlayApogee
+      name: PlayApogee on Twitter
+
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/playapogee
+      name: PlayApogee on LinkedIn
+
+    - icon: fontawesome/brands/tiktok
+      link: https://www.tiktok.com/@apogee_playground
+      name: PlayApogee on TikTok
+
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/scpAjmsvb5
+      name: PlayApogee on Discord
+
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/apogeecode
+      name: PlayApogee on Telegram
+    
+    - icon: fontawesome/brands/tumblr
+      link: https://playapogee.tumblr.com/
+      name: PlayApogee on Tumblr
+
+markdown_extensions:
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:pymdownx.emoji.to_svg
+    - abbr
+    - meta
+    - def_list
+    - attr_list
+    - footnotes
+    - admonition
+    - pymdownx.mark
+    - pymdownx.keys
+    - pymdownx.caret
+    - pymdownx.tilde
+    - pymdownx.tabbed
+    - pymdownx.details
+    - pymdownx.snippets
+    - pymdownx.highlight
+    - pymdownx.superfences
+    - pymdownx.smartsymbols
+    - pymdownx.inlinehilite
+    - pymdownx.tasklist:
+        custom_checkbox: true
