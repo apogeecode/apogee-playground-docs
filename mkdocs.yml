@@ -5,6 +5,64 @@ site_description: Get started with Apogee Playground app here...
 site_author: Apogee Code OÜ
 copyright: © 2021 Apogee Code OÜ. All rights reserved
 
+nav:
+  - Welcome: index.md
+  - Frequently Asked Questions: faq.md
+  - Getting Started:
+    - Getting Started: Getting Started/index.md
+    - Installation: Getting Started/installation.md
+    - Signing Up: Getting Started/signup.md
+    - Signing In: Getting Started/signin.md
+    - Choosing Your Playground: Getting Started/choosing_your_playground.md
+    - Exploring Expressions:
+      - Exploring Expressions: Getting Started/Exploring Expressions/index.md
+      - Filtering And Searching: Getting Started/Exploring Expressions/filtering_and_search.md
+      - Sending A Request: Getting Started/Exploring Expressions/sending_request.md
+      - Cancelling A Request: Getting Started/Exploring Expressions/cancelling_request.md
+      - Communicating With The Expresser: Getting Started/Exploring Expressions/communicating.md
+      - Starting The Session: Getting Started/Exploring Expressions/starting_session.md
+      - LORICE: Getting Started/Exploring Expressions/LORICE.md
+      - Extending The Session: Getting Started/Exploring Expressions/extending_session.md
+      - Donating: Getting Started/Exploring Expressions/donating.md
+      - Ending The Session: Getting Started/Exploring Expressions/ending_session.md
+      - Rating: Getting Started/Exploring Expressions/rating.md
+      - Cancelling The Session: Getting Started/Exploring Expressions/cancelling_session.md
+    - Expressing Yourself:
+      - Expressing Yourself: Getting Started/Expressing Yourself/index.md
+      - Adding An Expression: Getting Started/Expressing Yourself/adding_expression.md
+      - Activating/Deactivating An Expression: Getting Started/Expressing Yourself/activating_expression.md
+      - Going Online: Getting Started/Expressing Yourself/going_online.md
+      - Answering Requests: Getting Started/Expressing Yourself/answering_requests.md
+      - Cancelling A Request: Getting Started/Expressing Yourself/cancelling_request.md
+      - Communicating With The Expresser: Getting Started/Expressing Yourself/communicating.md
+      - Navigating: Getting Started/Expressing Yourself/navigating.md
+      - Starting The Session: Getting Started/Expressing Yourself/starting_session.md
+      - LORICE: Getting Started/Expressing Yourself/LORICE.md
+      - Donating: Getting Started/Expressing Yourself/donating.md
+      - Ending The Session: Getting Started/Expressing Yourself/ending_session.md
+      - Rating: Getting Started/Expressing Yourself/rating.md
+      - Cancelling The Session: Getting Started/Expressing Yourself/cancelling_session.md
+  - Account:
+    - Updating Your Profile: Account/updating_profile.md
+    - Changing Your Password: Account/changing_password.md
+    - Changing Your PIN: Account/changing_pin.md
+  - Features:
+    - User Modes (Playgrounds): Features/user_modes.md
+    - Requests: Features/requests.md
+    - Sessions: Features/sessions.md
+    - Donations: Features/donations.md
+    - Ratings: Features/ratings.md
+    - Redemption: Features/redemption.md
+    - Referrals: Features/referrals.md
+    - Memberships: Features/memberships.md
+    - Safety:
+      - In An Emergency: Features/Safety/sos.md
+      - LORICE: Features/Safety/index.md
+      - Verification: Features/Safety/verification.md
+      - Trusted Contacts: Features/Safety/trusted_contacts.md
+      - PIN Prompt: Features/Safety/pin_prompt.md
+      - Silent Mode: Features/Safety/silent_mode.md
+
 theme:
   name: material
 
@@ -16,15 +74,14 @@ theme:
     code: Roboto Mono
 
   features:
+    - search.share
+    - search.suggest
     - header.autohide
+    - search.highlight
+    - content.tabs.link
     - navigation.instant
     - navigation.tracking
     - navigation.sections
-    - navigation.indexes
-    - search.suggest
-    - search.highlight
-    - search.share
-    - content.tabs.link
 
   palette:
     - media: "(prefers-color-scheme: light)"
