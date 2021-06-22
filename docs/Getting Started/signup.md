@@ -38,6 +38,6 @@ You will be using your PIN to deactivate [PIN Prompt](../Features/Safety/pin_pro
 
 In order to increase your safety, your PIN must:
 
-- Be composed of numbers :fontawesome-brands-medium:
+- Be composed of numbers
 - Be between 4 to 8 digits long
 - NOT be symmetrical (not 1221, 12321, 8998 etc...). *Learn more about [Silent Mode](../Features/Safety/silent_mode.md).*

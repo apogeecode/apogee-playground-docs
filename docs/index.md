@@ -9,4 +9,5 @@ Apogee is a first-of-its-kind application with a unique service offering that is
 Welcome to the world's first playground!
 
 [Get Started](Getting%20Started/index.md){ .md-button .md-button--primary }
+
 [Frequently Asked Questions](faq.md){ .md-button }
