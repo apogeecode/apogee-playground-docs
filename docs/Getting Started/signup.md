@@ -1,6 +1,6 @@
 # Signing Up
 
-1. Open Apogee Playground app
+1. Open the Apogee Playground app
 2. Tap on the **Sign Up** button
 3. Enter your real full name, display name, email, password, PIN. Please see the [Password Requirements](#password-requirements) and the [PIN Requirements](#pin-requirements) for more information. After you have filled all fields, tap the **"Next"** button on the bottom-right corner to continue.
 4. Tap on the pink area. You can either choose a profile picture from your gallery, or take a new one. After editing your profile picture, tap the **"Next"** button to continue.
@@ -38,6 +38,6 @@ You will be using your PIN to deactivate [PIN Prompt](../Features/Safety/pin_pro
 
 In order to increase your safety, your PIN must:
 
-- Be composed of numbers :material-hamburger-menu:
+- Be composed of numbers :fontawesome-brands-medium:
 - Be between 4 to 8 digits long
 - NOT be symmetrical (not 1221, 12321, 8998 etc...). *Learn more about [Silent Mode](../Features/Safety/silent_mode.md).*
