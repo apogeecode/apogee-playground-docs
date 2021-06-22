@@ -4,7 +4,7 @@
 
     **MUHAHAHA** You are the dinner of this app now :smiling_imp:
     
-        *Just kidding :innocent:. Learn more about [Signing Out here](../Account/signout.md).*
+    *Just kidding :innocent:. Learn more about [Signing Out here](../Account/signout.md).*
 
 1. Open the Apogee Playground app
 2. Either enter your email and password, or choose **"Sign in with Google/Facebook/Apple"**
