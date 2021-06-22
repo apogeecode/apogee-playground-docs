@@ -1,9 +1,15 @@
 site_name: Apogee Playground Documentation
 site_url: https://www.playapogee.app/
-# repo_url: https://github.com/apogeecode/apogee-playground-docs
-site_description: Get started with Apogee Playground app here...
+site_description: Get started with Apogee Playground app here
 site_author: Apogee Code OÜ
-copyright: © 2021 Apogee Code OÜ. All rights reserved
+repo_name: apogeecode/apogee-playground-docs
+# repo_url: https://github.com/apogeecode/apogee-playground-docs
+copyright: &copy 2021 Apogee Code OÜ. All rights reserved
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
 
 nav:
   - Welcome: index.md
@@ -46,6 +52,7 @@ nav:
     - Updating Your Profile: Account/updating_profile.md
     - Changing Your Password: Account/changing_password.md
     - Changing Your PIN: Account/changing_pin.md
+    - Signing Out: Account/signout.md
   - Features:
     - User Modes (Playgrounds): Features/user_modes.md
     - Requests: Features/requests.md
@@ -65,12 +72,13 @@ nav:
 
 theme:
   name: material
+  language: en
 
   favicon: images/favicon.png
   logo: images/circle-black.svg
 
   font:
-    text: Montserrat
+    text: Roboto
     code: Roboto Mono
 
   features:
@@ -159,19 +167,18 @@ extra:
       name: PlayApogee on Tumblr
 
 markdown_extensions:
-    - pymdownx.emoji:
-        emoji_index: !!python/name:materialx.emoji.twemoji
-        emoji_generator: !!python/name:pymdownx.emoji.to_svg
     - abbr
     - meta
     - def_list
     - attr_list
     - footnotes
     - admonition
+    - md_in_html
     - pymdownx.mark
     - pymdownx.keys
     - pymdownx.caret
     - pymdownx.tilde
+    - pymdownx.critic
     - pymdownx.tabbed
     - pymdownx.details
     - pymdownx.snippets
@@ -179,5 +186,14 @@ markdown_extensions:
     - pymdownx.superfences
     - pymdownx.smartsymbols
     - pymdownx.inlinehilite
-    - pymdownx.tasklist:
-        custom_checkbox: true
+    # - pymdownx.tasklist:
+    #     custom_checkbox: true
+    # - pymdownx.arithmatex:
+    #     generic: true
+    - pymdownx.betterem:
+        smart_enable: all
+    - toc:
+        permalink: true
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
