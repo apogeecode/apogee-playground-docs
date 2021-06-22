@@ -26,6 +26,6 @@ Please follow the following steps to get started with Apogee Playground.
 2. [Signing Up](signup.md)
 3. [Signing In](signin.md)
 4. [Choosing Your Playground](choosing_your_playground.md)
-5. [Express Yourself](Expressing%20Yourself/index.md) or [Explore Expressions](Exploring%20Expressions/index.md)
+5. [Express Yourself](Expressing_Yourself/index.md) or [Explore Expressions](Exploring_Expressions/index.md)
 
 *[this one]: to view the abbreviation, or more information
