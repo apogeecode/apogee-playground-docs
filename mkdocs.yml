@@ -15,39 +15,39 @@ nav:
   - Welcome: index.md
   - Frequently Asked Questions: faq.md
   - Getting Started:
-    - Getting Started: Getting Started/index.md
-    - Installation: Getting Started/installation.md
-    - Signing Up: Getting Started/signup.md
-    - Signing In: Getting Started/signin.md
-    - Choosing Your Playground: Getting Started/choosing_your_playground.md
+    - Getting Started: Getting_Started/index.md
+    - Installation: Getting_Started/installation.md
+    - Signing Up: Getting_Started/signup.md
+    - Signing In: Getting_Started/signin.md
+    - Choosing Your Playground: Getting_Started/choosing_your_playground.md
     - Exploring Expressions:
-      - Exploring Expressions: Getting Started/Exploring Expressions/index.md
-      - Filtering And Searching: Getting Started/Exploring Expressions/filtering_and_search.md
-      - Sending A Request: Getting Started/Exploring Expressions/sending_request.md
-      - Cancelling A Request: Getting Started/Exploring Expressions/cancelling_request.md
-      - Communicating With The Expresser: Getting Started/Exploring Expressions/communicating.md
-      - Starting The Session: Getting Started/Exploring Expressions/starting_session.md
-      - LORICE: Getting Started/Exploring Expressions/LORICE.md
-      - Extending The Session: Getting Started/Exploring Expressions/extending_session.md
-      - Donating: Getting Started/Exploring Expressions/donating.md
-      - Ending The Session: Getting Started/Exploring Expressions/ending_session.md
-      - Rating: Getting Started/Exploring Expressions/rating.md
-      - Cancelling The Session: Getting Started/Exploring Expressions/cancelling_session.md
+      - Exploring_Expressions: Getting_Started/Exploring_Expressions/index.md
+      - Filtering And Searching: Getting_Started/Exploring_Expressions/filtering_and_search.md
+      - Sending A Request: Getting_Started/Exploring_Expressions/sending_request.md
+      - Cancelling A Request: Getting_Started/Exploring_Expressions/cancelling_request.md
+      - Communicating With The Expresser: Getting_Started/Exploring_Expressions/communicating.md
+      - Starting The Session: Getting_Started/Exploring_Expressions/starting_session.md
+      - LORICE: Getting_Started/Exploring_Expressions/LORICE.md
+      - Extending The Session: Getting_Started/Exploring_Expressions/extending_session.md
+      - Donating: Getting_Started/Exploring_Expressions/donating.md
+      - Ending The Session: Getting_Started/Exploring_Expressions/ending_session.md
+      - Rating: Getting_Started/Exploring_Expressions/rating.md
+      - Cancelling The Session: Getting_Started/Exploring_Expressions/cancelling_session.md
     - Expressing Yourself:
-      - Expressing Yourself: Getting Started/Expressing Yourself/index.md
-      - Adding An Expression: Getting Started/Expressing Yourself/adding_expression.md
-      - Activating/Deactivating An Expression: Getting Started/Expressing Yourself/activating_expression.md
-      - Going Online: Getting Started/Expressing Yourself/going_online.md
-      - Answering Requests: Getting Started/Expressing Yourself/answering_requests.md
-      - Cancelling A Request: Getting Started/Expressing Yourself/cancelling_request.md
-      - Communicating With The Expresser: Getting Started/Expressing Yourself/communicating.md
-      - Navigating: Getting Started/Expressing Yourself/navigating.md
-      - Starting The Session: Getting Started/Expressing Yourself/starting_session.md
-      - LORICE: Getting Started/Expressing Yourself/LORICE.md
-      - Donating: Getting Started/Expressing Yourself/donating.md
-      - Ending The Session: Getting Started/Expressing Yourself/ending_session.md
-      - Rating: Getting Started/Expressing Yourself/rating.md
-      - Cancelling The Session: Getting Started/Expressing Yourself/cancelling_session.md
+      - Expressing_Yourself: Getting_Started/Expressing_Yourself/index.md
+      - Adding An Expression: Getting_Started/Expressing_Yourself/adding_expression.md
+      - Activating/Deactivating An Expression: Getting_Started/Expressing_Yourself/activating_expression.md
+      - Going Online: Getting_Started/Expressing_Yourself/going_online.md
+      - Answering Requests: Getting_Started/Expressing_Yourself/answering_requests.md
+      - Cancelling A Request: Getting_Started/Expressing_Yourself/cancelling_request.md
+      - Communicating With The Expresser: Getting_Started/Expressing_Yourself/communicating.md
+      - Navigating: Getting_Started/Expressing_Yourself/navigating.md
+      - Starting The Session: Getting_Started/Expressing_Yourself/starting_session.md
+      - LORICE: Getting_Started/Expressing_Yourself/LORICE.md
+      - Donating: Getting_Started/Expressing_Yourself/donating.md
+      - Ending The Session: Getting_Started/Expressing_Yourself/ending_session.md
+      - Rating: Getting_Started/Expressing_Yourself/rating.md
+      - Cancelling The Session: Getting_Started/Expressing_Yourself/cancelling_session.md
   - Account:
     - Updating Your Profile: Account/updating_profile.md
     - Changing Your Password: Account/changing_password.md
