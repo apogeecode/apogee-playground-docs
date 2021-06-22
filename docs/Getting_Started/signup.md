@@ -25,7 +25,7 @@ In order to increase your account's security, you password must have:
 - At least 1 lowercase letter (a-z)
 - At least 1 UPPERCASE letter (A-Z)
 - At least 1 number (0-9)
-- At least 1 special character (!@#$%.)
+- At least 1 special character (!#$%.)
 - At least 8 characters in total.
 
 ## PIN Requirements
