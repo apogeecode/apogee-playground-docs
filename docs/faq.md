@@ -6,7 +6,7 @@ You can install Apogee Playground from [Google Play Store](https://play.google.c
 
 ???+ info
 
-    *Learn more about [Installation](Getting%20Started/installation.md)*
+    *Learn more about [Installation](Getting_Started/installation.md)*
 
 ## Why do I need to verify my identity?
 
@@ -14,11 +14,11 @@ We are doing our best to provide a safe and trust-based platform to our users. I
 
 ???+ info
 
-    *Learn more about [Verification](Getting%20Started/installation.md)*
+    *Learn more about [Verification](Getting_Started/installation.md)*
 
 ## How is my safety being checked?
 
-You will be setting a PIN during the [Sign Up](Getting%20Started/signup.md). Your safety will be checked periodically by default during a session with a [PIN Prompt](Features/Safety/pin_prompt.md). If you fail to enter the PIN:
+You will be setting a PIN during the [Sign Up](Getting_Started/signup.md). Your safety will be checked periodically by default during a session with a [PIN Prompt](Features/Safety/pin_prompt.md). If you fail to enter the PIN:
 
 - Your trusted contacts will be informed via SMS about your location, who you are with, and a short summary of events
 - An alarm will go off on your phone
