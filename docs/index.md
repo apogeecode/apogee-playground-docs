@@ -2,7 +2,7 @@
 
 !!! warning "Site under construction"
 
-    These documentations are not complete yet. Please check back in a few days. Thank you, and sorry for the inconvenience.
+    These documentations are not complete yet. Please check back in a few days. Thank you for your understanding, and sorry for the inconvenience.
 
     In the meantime, please feel free to [email your questions to us](mailto:contact@apogee.codes).
 
