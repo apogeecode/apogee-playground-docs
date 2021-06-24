@@ -133,9 +133,6 @@ theme:
         name: Switch to light mode
 
 extra:
-  version:
-    provider: mike
-
   analytics:
     provider: google
     property: G-ZLFG32HBFF
