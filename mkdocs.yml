@@ -8,67 +8,91 @@ copyright: &copy 2021 Apogee Code OÜ. All rights reserved
 
 plugins:
   - search
+  - i18n:
+      languages:
+        en: "English"
+        et: "Eesti"
+        ru: "Pусский"
+      default_language: 'en'
+      no_translation:
+        en: "This page has not been translated into English."
+        et: "See leht ei ole tõlgitud eesti keelde."
+        ru: "Эта страница не переведена на русский язык."
+      translate_nav:
+        en:
+          Getting Started: "Getting Started"
+          Exploring Expressions: "Exploring Expressions"
+          Expressing Yourself: "Expressing Yourself"
+          Features: "Features"
+          Account: "Account"
+          Safety: "Safety"
+        et:
+          Getting Started: "Getting Started"
+          Exploring Expressions: "Exploring Expressions"
+          Expressing Yourself: "Expressing Yourself"
+          Features: "Features"
+          Account: "Account"
+          Safety: "Safety"
+        ru:
+          Getting Started: "Getting Started"
+          Exploring Expressions: "Exploring Expressions"
+          Expressing Yourself: "Expressing Yourself"
+          Features: "Features"
+          Account: "Account"
+          Safety: "Safety"
   - minify:
       minify_html: true
 
 nav:
-  - Welcome: index.md
-  - Frequently Asked Questions: faq.md
-  - Getting Started:
-    - Getting Started: Getting_Started/index.md
-    - Installation: Getting_Started/installation.md
-    - Signing Up: Getting_Started/signup.md
-    - Signing In: Getting_Started/signin.md
-    - Choosing Your Playground: Getting_Started/choosing_your_playground.md
-    - Exploring Expressions:
-      - Exploring_Expressions: Getting_Started/Exploring_Expressions/index.md
-      - Filtering And Searching: Getting_Started/Exploring_Expressions/filtering_and_search.md
-      - Sending A Request: Getting_Started/Exploring_Expressions/sending_request.md
-      - Cancelling A Request: Getting_Started/Exploring_Expressions/cancelling_request.md
-      - Communicating With The Expresser: Getting_Started/Exploring_Expressions/communicating.md
-      - Starting The Session: Getting_Started/Exploring_Expressions/starting_session.md
-      - LORICE: Getting_Started/Exploring_Expressions/LORICE.md
-      - Extending The Session: Getting_Started/Exploring_Expressions/extending_session.md
-      - Donating: Getting_Started/Exploring_Expressions/donating.md
-      - Ending The Session: Getting_Started/Exploring_Expressions/ending_session.md
-      - Rating: Getting_Started/Exploring_Expressions/rating.md
-      - Cancelling The Session: Getting_Started/Exploring_Expressions/cancelling_session.md
-    - Expressing Yourself:
-      - Expressing_Yourself: Getting_Started/Expressing_Yourself/index.md
-      - Adding An Expression: Getting_Started/Expressing_Yourself/adding_expression.md
-      - Activating/Deactivating An Expression: Getting_Started/Expressing_Yourself/activating_expression.md
-      - Going Online: Getting_Started/Expressing_Yourself/going_online.md
-      - Answering Requests: Getting_Started/Expressing_Yourself/answering_requests.md
-      - Cancelling A Request: Getting_Started/Expressing_Yourself/cancelling_request.md
-      - Communicating With The Expresser: Getting_Started/Expressing_Yourself/communicating.md
-      - Navigating: Getting_Started/Expressing_Yourself/navigating.md
-      - Starting The Session: Getting_Started/Expressing_Yourself/starting_session.md
-      - LORICE: Getting_Started/Expressing_Yourself/LORICE.md
-      - Donating: Getting_Started/Expressing_Yourself/donating.md
-      - Ending The Session: Getting_Started/Expressing_Yourself/ending_session.md
-      - Rating: Getting_Started/Expressing_Yourself/rating.md
-      - Cancelling The Session: Getting_Started/Expressing_Yourself/cancelling_session.md
-  - Account:
-    - Updating Your Profile: Account/updating_profile.md
-    - Changing Your Password: Account/changing_password.md
-    - Changing Your PIN: Account/changing_pin.md
-    - Signing Out: Account/signout.md
-  - Features:
-    - User Modes (Playgrounds): Features/user_modes.md
-    - Requests: Features/requests.md
-    - Sessions: Features/sessions.md
-    - Donations: Features/donations.md
-    - Ratings: Features/ratings.md
-    - Redemption: Features/redemption.md
-    - Referrals: Features/referrals.md
-    - Memberships: Features/memberships.md
-    - Safety:
-      - In An Emergency: Features/Safety/sos.md
-      - LORICE: Features/Safety/index.md
-      - Verification: Features/Safety/verification.md
-      - Trusted Contacts: Features/Safety/trusted_contacts.md
-      - PIN Prompt: Features/Safety/pin_prompt.md
-      - Silent Mode: Features/Safety/silent_mode.md
+    - index.en.md
+    - index.et.md
+    - faq.en.md
+    - Getting Started: 
+        - Getting_Started/index.en.md
+        - Getting_Started/installation.en.md
+        - Getting_Started/signup.en.md
+        - Getting_Started/signin.en.md
+        - Getting_Started/choosing_your_playground.en.md
+        - Exploring Expressions: 
+            - Getting_Started/Exploring_Expressions/index.en.md
+            - Getting_Started/Exploring_Expressions/filtering_and_search.en.md
+            - Getting_Started/Exploring_Expressions/requesting.en.md
+            - Getting_Started/Exploring_Expressions/communicating.en.md
+            - Getting_Started/Exploring_Expressions/having_session.en.md
+            - Getting_Started/Exploring_Expressions/LORICE.en.md
+            - Getting_Started/Exploring_Expressions/donating.en.md
+            - Getting_Started/Exploring_Expressions/rating.en.md
+        - Expressing Yourself: 
+            - Getting_Started/Expressing_Yourself/index.en.md
+            - Getting_Started/Expressing_Yourself/expressions.en.md
+            - Getting_Started/Expressing_Yourself/requests.en.md
+            - Getting_Started/Expressing_Yourself/communicating.en.md
+            - Getting_Started/Expressing_Yourself/navigating.en.md
+            - Getting_Started/Expressing_Yourself/having_session.en.md
+            - Getting_Started/Expressing_Yourself/LORICE.en.md
+            - Getting_Started/Expressing_Yourself/donating.en.md
+            - Getting_Started/Expressing_Yourself/rating.en.md
+    - Account: 
+        - Account/updating_profile.en.md
+        - Account/changing_password.en.md
+        - Account/changing_pin.en.md
+        - Account/signout.en.md
+    - Features: 
+        - Features/user_modes.en.md
+        - Features/requests.en.md
+        - Features/sessions.en.md
+        - Features/donations.en.md
+        - Features/ratings.en.md
+        - Features/redemption.en.md
+        - Features/referrals.en.md
+        - Features/memberships.en.md
+        - Safety: 
+            - Features/Safety/sos.en.md
+            - Features/Safety/index.en.md
+            - Features/Safety/verification.en.md
+            - Features/Safety/trusted_contacts.en.md
+            - Features/Safety/pin_prompt.en.md
+            - Features/Safety/silent_mode.en.md
 
 theme:
   name: material
@@ -94,15 +118,15 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: pink
-      accent: deep orange
+      primary: purple
+      accent: amber
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
 
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: cyan
+      primary: purple
       accent: amber
       toggle:
         icon: material/weather-sunny
@@ -116,18 +140,18 @@ extra:
     provider: google
     property: G-ZLFG32HBFF
 
-  # alternate:
-  #   - name: English
-  #     link: https://docs.playapogee.app/en/
-  #     lang: en
+  alternate:
+    - name: English
+      link: index.en/
+      lang: en
 
-  #   - name: Eesti
-  #     link: https://docs.playapogee.app/et/
-  #     lang: de
+    - name: Eesti
+      link: index.et/
+      lang: et
 
-  #   - name: Pусский
-  #     link: https://docs.playapogee.app/ru/
-  #     lang: ja
+    - name: Pусский
+      link: index.ru/
+      lang: ru
   
   social:
     - icon: octicons/mail-24
@@ -186,14 +210,14 @@ markdown_extensions:
     - pymdownx.superfences
     - pymdownx.smartsymbols
     - pymdownx.inlinehilite
-    # - pymdownx.tasklist:
-    #     custom_checkbox: true
-    # - pymdownx.arithmatex:
-    #     generic: true
+    - pymdownx.tasklist:
+        custom_checkbox: true
+    - pymdownx.arithmatex:
+        generic: true
     - pymdownx.betterem:
         smart_enable: all
     - toc:
-        permalink: true
+        permalink: ⚓︎
     - pymdownx.emoji:
         emoji_index: !!python/name:materialx.emoji.twemoji
         emoji_generator: !!python/name:materialx.emoji.to_svg
