@@ -5,7 +5,7 @@
 1. Install the necessary pip packages
 
     ```bash
-    # pip install mike mkdocs-material mkdocs-material-extensions
+    # pip install mike mkdocs-material mkdocs-material-extensions testresources mkdocs-i18n mkdocs-minify-plugin mkdocs-redirects pymdown-extensions
     ```
 
 2. Fork/Clone the repository
@@ -14,40 +14,22 @@
     # git clone https://github.com/apogeecode/apogee-playground-docs.git
     ```
 
-### Deploying A Version
-
-```bash
-# mike deploy [version] [alias]
-```
-
-### Setting Default Version
-
-```bash
-# mike set-default [version-alias]
-```
-
 ### Debugging The Docs
 
 ```bash
-# mike serve
+# mkdocs serve
 ```
 
-### Listing The Versions
+### Building The Docs
 
 ```bash
-# mike list [version-alias]
+# mkdocs build
 ```
 
-### Renaming A Version
+### Deploying The Docs on GitHub Pages
 
 ```bash
-# mike retitle [version-or-alias] [title]
-```
-
-### Deleting A Version
-
-```bash
-# mike delete [version-or-alias]...
+# mkdocs gh-deploy
 ```
 
 ## License
