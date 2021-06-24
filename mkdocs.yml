@@ -1,6 +1,6 @@
-site_name: Apogee Playground Documentation
+site_name: Apogee Docs
 site_url: https://www.playapogee.app/
-site_description: Get started with Apogee Playground app here
+site_description: Get started with Apogee products
 site_author: Apogee Code OÜ
 repo_name: apogeecode/apogee-playground-docs
 # repo_url: https://github.com/apogeecode/apogee-playground-docs
@@ -11,8 +11,8 @@ plugins:
   - i18n:
       languages:
         en: "English"
-        et: "Eesti"
-        ru: "Pусский"
+        # et: "Eesti"
+        # ru: "Pусский"
       default_language: 'en'
       no_translation:
         en: "This page has not been translated into English."
@@ -45,8 +45,9 @@ plugins:
 
 nav:
     - index.md
-    - index.et.md
+    # - index.et.md
     - faq.en.md
+    - guidelines.en.md
     - Getting Started: 
         - Getting_Started/index.en.md
         - Getting_Started/installation.en.md
@@ -137,18 +138,18 @@ extra:
     provider: google
     property: G-ZLFG32HBFF
 
-  alternate:
-    - name: English
-      link: ""
-      lang: en
+  # alternate:
+  #   - name: English
+  #     link: ""
+  #     lang: en
 
-    - name: Eesti
-      link: index.et/
-      lang: et
+    # - name: Eesti
+    #   link: index.et/
+    #   lang: et
 
-    - name: Pусский
-      link: index.ru/
-      lang: ru
+    # - name: Pусский
+    #   link: index.ru/
+    #   lang: ru
   
   social:
     - icon: octicons/mail-24
