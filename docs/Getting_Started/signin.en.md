@@ -23,6 +23,6 @@
 
 *[OTP]: One-Time Passcode
 
-!!! info "Can't find the email"
+??? question "Can't find the email?"
 
     You can check your "Spam" folder if you don't see the email in your inbox
