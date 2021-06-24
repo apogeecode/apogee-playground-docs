@@ -44,7 +44,7 @@ plugins:
       minify_html: true
 
 nav:
-    - index.en.md
+    - index.md
     - index.et.md
     - faq.en.md
     - Getting Started: 
