@@ -99,8 +99,8 @@ theme:
   name: material
   language: en
 
-  favicon: images/favicon.png
-  logo: images/circle-black.svg
+  favicon: images/transparent-white.svg
+  logo: images/transparent-white.svg
 
   font:
     text: Roboto
