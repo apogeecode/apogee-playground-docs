@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 1080 1080"
+   version="1.1"
+   id="svg17"
+   sodipodi:docname="transparent-white.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:export-filename="/home/recoskyler/Documents/Apogee/Logo/transparent-white.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata21">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     id="namedview19"
+     showgrid="false"
+     inkscape:zoom="0.79259259"
+     inkscape:cx="540"
+     inkscape:cy="540"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="vol2"
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="true" />
+  <defs
+     id="defs9">
+    <style
+       id="style2">.cls-1{fill:url(#linear-gradient);}.cls-2{fill:#191919;}</style>
+    <linearGradient
+       id="linear-gradient"
+       x1="18.27"
+       y1="400.2"
+       x2="1061.73"
+       y2="679.8"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#eb2d7c"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#65308f"
+         id="stop6" />
+    </linearGradient>
+  </defs>
+  <g
+     id="Layer_2"
+     data-name="Layer 2">
+    <g
+       id="vol2">
+      <circle
+         class="cls-1"
+         cx="540"
+         cy="540"
+         r="540"
+         id="circle11"
+         style="fill:none"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         class="cls-2"
+         d="M948.92,480.92C936.07,433,823.28,419,673.14,440.08l-90-244.78c-14.77-40.17-71.58-40.17-86.34,0L379.26,515.23C221.94,574.08,117.35,648.77,131.09,700.06c9.32,34.79,71.2,51.68,161.76,50.29L255.14,853a46,46,0,0,0,43.17,61.86h15.82l62.51-170.1C436,738,502.25,725.5,571.23,707c37.13-10,72.73-21,106.22-32.81l88.43,240.62H781.7A46,46,0,0,0,824.87,853L749,646.51C879,591.3,961.2,526.75,948.92,480.92ZM193.57,682.7c-4.41-16.44,62.27-71,168.17-119.79L314.19,692.29C243.29,698.78,196.86,695,193.57,682.7ZM540,300.2l56.28,153.13C567.85,459.11,538.57,466,508.78,474q-18.46,4.95-36.39,10.24Zm15.24,347.2c-55,14.74-107.8,25.87-155.22,33.68l57.44-156.3c19.33-6.54,39.38-12.66,60-18.2,31.1-8.33,61.66-14.82,91.07-19.76l47.78,130C624.68,627.54,590.75,637.89,555.25,647.4Zm173.17-56.9L686.68,476.94c113-9.65,195.14,4,199.46,20.18C890.33,512.74,827.3,551.33,728.42,590.5Z"
+         id="path13"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+  </g>
+</svg>
