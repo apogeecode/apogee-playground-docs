@@ -2,9 +2,9 @@
 
 ## How do I install the app?
 
-You can install Apogee Playground from [Google Play](https://play.google.com/store/apps/details?id=app.playapogee.playground) or from App Store (coming soon).
+You can install Apogee Playground from [Google Play](https://play.google.com/store/apps/details?id=app.playapogee.playground){:target="_blank"} or from App Store (coming soon).
 
-[![Get it on Google Play](./images/google-play-badge.png){ width=256 }](https://play.google.com/store/apps/details?id=app.playapogee.playground&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
+[![Get it on Google Play](./images/google-play-badge.png){ width=256 }](https://play.google.com/store/apps/details?id=app.playapogee.playground&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1){:target="_blank"}
 
 ???+ info
 

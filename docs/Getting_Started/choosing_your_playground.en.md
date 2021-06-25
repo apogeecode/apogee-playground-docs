@@ -10,7 +10,7 @@ If you would like to express yourself and do what you love/feel like to earn mon
 
     Try asking yourself: **"What are the things that make me lose the track of time?"**. If you are still unsure, you can try the [Explore](#explore) playground to get more ideas. 
 
-    You can also follow us on [Instagram](https://www.instagram.com/playapogee/) to explore more ideas.
+    You can also follow us on [Instagram](https://www.instagram.com/playapogee/){:target="_blank"} to explore more ideas.
 
 [:fontawesome-solid-chevron-right: Getting started with Expressing Yourself](Expressing_Yourself/index.en.md){ .md-button .md-button--primary }
 
@@ -26,7 +26,7 @@ Unless you have disabled "Choose Playground" (Learn more below: [Disabling The "
 
 **If you are currently in the app, please follow the following steps:**
 
-1. If you are not on the home screen of the app, please navigate there using the :material-arrow-left: button on the top-left corner of the screen, or by tapping the back button of your device.
+1. If you are not on the home screen of the app, please navigate there using the :material-arrow-left: button on the top-left corner of the screen, or by tapping the back button of your device
 2. Once you are on the home screen, tap the :material-menu: button on the top-left corner of the screen to open the menu
 3. Tap on the **":material-cog: Settings"** button on the bottom-left corner of the menu
 4. Tap on the **"Switch Mode"** button
