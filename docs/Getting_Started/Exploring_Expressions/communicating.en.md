@@ -1,3 +1,0 @@
-# Communicating
-
-## Via Messaging

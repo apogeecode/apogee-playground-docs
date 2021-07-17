@@ -5,7 +5,7 @@
 === "Android"
 
     1. Open [this link](https://play.google.com/store/apps/details?id=app.playapogee.playground){:target="_blank"}, click **"Get it on Google Play"** button above, or search for *"Apogee Playground"* on Google Play
-    2. Tap **Install** button
+    2. Tap the **Install** button
 
 === "IOS"
 

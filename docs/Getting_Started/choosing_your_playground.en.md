@@ -2,13 +2,17 @@
 
 There are two playgrounds, *or user modes*, on Apogee Playground: [Express](#express) and [Explore](#explore). You can choose your playground any time, or every time you open the app.
 
+??? example
+
+    ![Choose Your Playground Screen](../images/screenshots/choose_playground.png)
+
 ## Express
 
 If you would like to express yourself and do what you love/feel like to earn money, this is your playground. People who are interested in what you are doing (your expression) will be paying to spend time with you. You will be able to find and connect with people with the same interests.
 
 ???+ question "No ideas?"
 
-    Try asking yourself: **"What are the things that make me lose the track of time?"**. If you are still unsure, you can try the [Explore](#explore) playground to get more ideas. 
+    Try asking yourself: **"What are the things that make me lose the track of time?"**. If you are still unsure, you can try the [Explore](#explore) playground to get more ideas.
 
     You can also follow us on [Instagram](https://www.instagram.com/playapogee/){:target="_blank"} to explore more ideas.
 
@@ -34,4 +38,8 @@ Unless you have disabled "Choose Playground" (Learn more below: [Disabling The "
 
 ## Disabling The "Choose Playground" Prompt
 
-You can disable the *"Choose Playground"* screen by checking the **"Don't show again"** box at the bottom of the *"Choose Playground"* screen.
+You can disable the *"Choose Playground"* screen by checking the **"Don't ask again"** box at the bottom of the *"Choose Playground"* screen.
+
+??? example
+
+    ![Choose Your Playground Screen](../images/screenshots/disable_choose_playground.png)

@@ -14,6 +14,10 @@ You can install Apogee Playground from [Google Play](https://play.google.com/sto
 
 ### What does the app do?
 
+Apogee Playground helps people to make a list of the activities that they enjoy doing with and for others, and make money doing that. It helps people do what they love together with the people who support that. The person who expresses oneself starts attracting the people who are interested in their vibe. They become the center of a community that compliments their feelings. They will not only feel free doing what they like but also won’t get a sense of judgement from this community.
+
+Apogee Playground helps you to love yourself by the ways you express yourself, feel loved by being supported by people interested in your expressions and if you love them back you have found your soulmate.
+
 ### What can I do when I'm on the app?
 
 ### What can I do to make money on the app?

@@ -1,6 +1,6 @@
 # Welcome
 
-!!! warning "Site under construction"
+!!! warning "Documentation not complete"
 
     These documentations are not complete yet. Please check back in a few days. Thank you for your understanding, and sorry for the inconvenience.
 
