@@ -55,27 +55,26 @@ nav:
         - Getting_Started/signup.en.md
         - Getting_Started/signin.en.md
         - Getting_Started/choosing_your_playground.en.md
-        # - Exploring Expressions:
-        #     - Getting_Started/Exploring_Expressions/index.en.md
-        #     - Getting_Started/Exploring_Expressions/filtering_and_search.en.md
+        - Getting_Started/LORICE.en.md
+        - Exploring Expressions:
+            - Getting_Started/Exploring_Expressions/index.en.md
+            - Getting_Started/Exploring_Expressions/filtering_and_search.en.md
         #     - Getting_Started/Exploring_Expressions/requesting.en.md
-        #     - Getting_Started/Exploring_Expressions/having_session.en.md
-        #     - Getting_Started/Exploring_Expressions/LORICE.en.md
+            - Getting_Started/Exploring_Expressions/having_session.en.md
         - Expressing Yourself:
             - Getting_Started/Expressing_Yourself/index.en.md
             - Getting_Started/Expressing_Yourself/expressions.en.md
             - Getting_Started/Expressing_Yourself/requests.en.md
             - Getting_Started/Expressing_Yourself/having_session.en.md
-            - Getting_Started/Expressing_Yourself/LORICE.en.md
     - Account:
         # - Account/updating_profile.en.md
         # - Account/changing_password.en.md
         # - Account/changing_pin.en.md
         - Account/signout.en.md
-    # - Features:
-    #     - Features/user_modes.en.md
-    #     - Features/requests.en.md
-    #     - Features/sessions.en.md
+    - Features:
+        - Features/user_modes.en.md
+        - Features/requests.en.md
+        - Features/sessions.en.md
     #     - Features/donations.en.md
     #     - Features/ratings.en.md
     #     - Features/redemption.en.md
@@ -182,6 +181,11 @@ extra:
       link: https://playapogee.tumblr.com/
       name: PlayApogee on Tumblr
 
+extra_javascript:
+    - javascripts/config.js
+    - https://polyfill.io/v3/polyfill.min.js?features=es6
+    - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
 markdown_extensions:
     - abbr
     - meta
@@ -213,3 +217,5 @@ markdown_extensions:
     - pymdownx.emoji:
         emoji_index: !!python/name:materialx.emoji.twemoji
         emoji_generator: !!python/name:materialx.emoji.to_svg
+    - pymdownx.arithmatex:
+        generic: true
