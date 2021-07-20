@@ -2,9 +2,9 @@
 
 On Apogee Playground, [explorers](../../Features/user_modes.en.md#explorer) send a request to [expressers](../../Features/user_modes.en.md#expressers) to:
 
-- Have a session
-- Extend a session
-- Book a session for a later time
+- Have a [session](../../Features/sessions.en.md)
+- Extend a [session](../../Features/sessions.en.md)
+- Book a [session](../../Features/sessions.en.md) for a later time
 
 [Expressers](../../Features/user_modes.en.md#expressers) can accept or reject these requests.
 
@@ -32,7 +32,7 @@ Unlike [instant requests](#instant-requests), booking requests are requests sent
 
 When you receive a booking request, the request will pop up on the **"Bookings"** page.
 
-When it's time for the session to start, you can go to the **"Bookings"** page and tap on the session to be redirected to pre-session page where you will be able to [communicate with the explorer](having_session.en.md#communicating), [navigate to explorer's location](having_session.en.md#navigating), and [start the session](having_session.en.md#starting-the-session).
+When it's time for the [session](../../Features/sessions.en.md) to start, you can go to the **"Bookings"** page and tap on the [session](../../Features/sessions.en.md) to be redirected to pre-session page where you will be able to [communicate with the explorer](having_session.en.md#communicating), [navigate to explorer's location](having_session.en.md#navigating), and [start the session](having_session.en.md#starting-the-session).
 
 ???+ question "How do I navigate to the 'Bookings' page?"
 

@@ -1,5 +1,11 @@
 # Session Safety
 
+!!! warning
+
+    LORICE (PIN Prompt) is disabled by default, please enable the PIN prompt from the **"Security"** tab. You cannot enable/disable the PIN prompt during a session.
+
+*[LORICE]: Low Risk In Case of Emergency technology
+
 ## Deactivating PIN Prompt
 
 You can deactivate the PIN prompt until the next prompt by entering your PIN. If you fail to enter your PIN 3 times, the [Emergency Mode](#emergency-mode) will be activated.

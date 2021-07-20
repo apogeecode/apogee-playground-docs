@@ -38,7 +38,7 @@ Unless you have disabled "Choose Playground" (Learn more below: [Disabling The "
 
 ## Disabling The "Choose Playground" Prompt
 
-You can disable the *"Choose Playground"* screen by checking the **"Don't ask again"** box at the bottom of the *"Choose Playground"* screen.
+You can disable the *"Choose Playground"* screen by checking the **":material-checkbox-marked: Don't ask again"** box at the bottom of the *"Choose Playground"* screen.
 
 ??? example
 
