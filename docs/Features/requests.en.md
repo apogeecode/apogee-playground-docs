@@ -22,11 +22,11 @@ On Apogee Playground, [explorers](user_modes.en.md#explorer) send a request to [
 
 ## Instant Request
 
-Instant requests are requests sent by [explorers](user_modes.en.md#explorer) to the [expressers](user_modes.en.md#expresser) have a [session](sessions.en.md) today, now.
+Instant requests are requests sent by [explorers](user_modes.en.md#explorer) to the [expressers](user_modes.en.md#expresser) have a [session](sessions.en.md) **today, now**.
 
 ## Booking Request
 
-Unlike [instant requests](#instant-requests), booking requests are requests sent by [explorers](user_modes.en.md#explorer) to the [expressers](user_modes.en.md#expresser) have a [session](sessions.en.md) on a later date.
+Unlike [instant requests](#instant-requests), booking requests are requests sent by [explorers](user_modes.en.md#explorer) to the [expressers](user_modes.en.md#expresser) have a [session](sessions.en.md) **on a later date**.
 
 ## Extension Request
 

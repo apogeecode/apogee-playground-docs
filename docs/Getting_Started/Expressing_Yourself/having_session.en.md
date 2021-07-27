@@ -16,11 +16,11 @@ You can chat with the [explorer](../../Features/user_modes.en.md#explorer) by ta
 
 In order to prevent starting your session with the wrong people, a QR code scan is required to start the session; you can do one of the following:
 
-#### Scan The [Explorer](../../Features/user_modes.en.md#explorer)'s QR Code
+#### Scan The Explorer's QR Code
 
 The [explorer](../../Features/user_modes.en.md#explorer) will [show you the qr code on their device](../Exploring_Expressions/having_session.en.md#let-the-explorer-scan-your-qr-code). Tap on the **"Scan QR Code"** button to scan the QR code.
 
-#### Let The [Explorer](../../Features/user_modes.en.md#explorer) Scan Your QR Code
+#### Let The Explorer Scan Your QR Code
 
 Tap on the **"Show QR Code"** button to show the QR code to the [explorer](../../Features/user_modes.en.md#explorer), and let them [scan it](../Exploring_Expressions/having_session.en.md#scan-the-expressers-qr-code).
 
@@ -62,7 +62,7 @@ If you have ended the session in the first 15 minutes after the session started,
 
 If you have ended the session in the first 15 minutes after the session started, you will be paid by the minutes (*the price you have set for the expression divided by 60, and multiplied by the duration of the session*).
 
-### Rating The [Explorer](../../Features/user_modes.en.md#explorer)
+### Rating The Explorer
 
 Once you end the session, you will be given the option to rate the [explorer](../../Features/user_modes.en.md#explorer) and the [session](../../Features/sessions.en.md).
 

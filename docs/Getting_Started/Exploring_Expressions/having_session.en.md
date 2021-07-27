@@ -12,11 +12,11 @@ You can chat with the [expresser](../../Features/user_modes.en.md#expresser) by 
 
 In order to prevent starting your [session](../../Features/sessions.en.md) with the wrong people, a QR code scan is required to start the [session](../../Features/sessions.en.md); you can do one of the following:
 
-#### Scan The [Expresser](../../Features/user_modes.en.md#expresser)'s QR Code
+#### Scan The Expresser's QR Code
 
 The [expresser](../../Features/user_modes.en.md#expresser) will [show you the qr code on their device](../Expressing_Yourself/having_session.en.md#let-the-explorer-scan-your-qr-code). Tap on the **"Scan QR Code"** button to scan the QR code.
 
-#### Let The [Expresser](../../Features/user_modes.en.md#expresser) Scan Your QR Code
+#### Let The Expresser Scan Your QR Code
 
 Tap on the **"Show QR Code"** button to show the QR code to the [expresser](../../Features/user_modes.en.md#expresser), and let them [scan it](../Expressing_Yourself/having_session.en.md#scan-the-explorers-qr-code).
 
@@ -62,7 +62,7 @@ If you have ended the [session](../../Features/sessions.en.md) in the first 15 m
 
 If you have ended the [session](../../Features/sessions.en.md) in the first 15 minutes after the [session](../../Features/sessions.en.md) started, you will pay by the minutes (*the price for the [expression](../Expressing_Yourself/expressions.en.md) divided by 60, and multiplied by the duration of the [session](../../Features/sessions.en.md)*) and you will get the extra refunded in 7 business days.
 
-### Rating The [Expresser](../../Features/user_modes.en.md#expresser)
+### Rating The Expresser
 
 Once you end the [session](../../Features/sessions.en.md), you will be given the option to rate the [expresser](../../Features/user_modes.en.md#expresser) and the [session](../../Features/sessions.en.md).
 

@@ -1,6 +1,6 @@
 site_name: Apogee Docs
 site_url: https://www.playapogee.app/
-site_description: Get started with Apogee products
+site_description: Get started with Apogee
 site_author: Apogee Code OÜ
 repo_name: apogeecode/apogee-playground-docs
 # repo_url: https://github.com/apogeecode/apogee-playground-docs
@@ -47,8 +47,8 @@ nav:
     - index.md
     # - index.et.md
     # - faq.en.md
-    # - guidelines.en.md
-    # - troubleshooting.en.md
+    - guidelines.en.md
+    - troubleshooting.en.md
     - Getting Started:
         - Getting_Started/index.en.md
         - Getting_Started/installation.en.md
@@ -59,7 +59,7 @@ nav:
         - Exploring Expressions:
             - Getting_Started/Exploring_Expressions/index.en.md
             - Getting_Started/Exploring_Expressions/filtering_and_search.en.md
-        #     - Getting_Started/Exploring_Expressions/requesting.en.md
+            - Getting_Started/Exploring_Expressions/requesting.en.md
             - Getting_Started/Exploring_Expressions/having_session.en.md
         - Expressing Yourself:
             - Getting_Started/Expressing_Yourself/index.en.md
