@@ -6,10 +6,6 @@
 4. Tap on the pink area. You can either choose a profile picture from your gallery, or take a new one. After editing your profile picture, tap the **"Next"** button to continue
 5. For identity verification; please follow the instructions on your screen, scan your document, and wait. Digital identity verification might take a few minutes to complete. After the digital verification is complete, our team will be verifying your account in a few working days
 
-    !!! info
-
-        Learn more about [Verification](../Features/Safety/verification.en.md)
-
     ???+ warning "Skipping the verification process"
 
         You can also skip the verification for now, however you will not be able to use most features of the app until your identity is verified.
@@ -19,8 +15,6 @@
         - Able to go online
         - Able to make any type of request
         - Visible on the app
-
-        Learn more about [Verification](../Features/Safety/verification.en.md)
 
 ## Password Requirements
 
@@ -42,10 +36,10 @@ In order to increase your account's security, you password must have:
 
     Your PIN is also very important, **PLEASE DO NOT FORGET YOUR PIN**
 
-You will be using your PIN to deactivate [PIN Prompt](../Features/Safety/pin_prompt.en.md), and to use [LORICE](../Features/Safety/index.en.md) in [Silent Mode](../Features/Safety/silent_mode.en.md).
+You will be using your PIN to deactivate [PIN Prompt](LORICE.en.md), and to use [LORICE](LORICE.en.md) in [Silent Mode](LORICE.en.md).
 
 In order to increase your safety, your PIN must:
 
 - Be composed of numbers
 - Be between 4 to 8 digits long
-- NOT be symmetrical (not 1221, 12321, 8998 etc...). *Learn more about [Silent Mode](../Features/Safety/silent_mode.en.md)*
+- NOT be symmetrical (not 1221, 12321, 8998 etc...). *Learn more about [Silent Mode](LORICE.en.md)*

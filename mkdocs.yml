@@ -46,7 +46,7 @@ plugins:
 nav:
     - index.md
     # - index.et.md
-    # - faq.en.md
+    - faq.en.md
     - guidelines.en.md
     - troubleshooting.en.md
     - Getting Started:
@@ -66,27 +66,20 @@ nav:
             - Getting_Started/Expressing_Yourself/expressions.en.md
             - Getting_Started/Expressing_Yourself/requests.en.md
             - Getting_Started/Expressing_Yourself/having_session.en.md
+            - Getting_Started/Expressing_Yourself/redemption.en.md
     - Account:
-        # - Account/updating_profile.en.md
-        # - Account/changing_password.en.md
-        # - Account/changing_pin.en.md
+        - Account/updating_profile.en.md
+        - Account/changing_password.en.md
+        - Account/changing_pin.en.md
         - Account/signout.en.md
     - Features:
         - Features/user_modes.en.md
         - Features/requests.en.md
         - Features/sessions.en.md
     #     - Features/donations.en.md
-    #     - Features/ratings.en.md
-    #     - Features/redemption.en.md
+        - Features/ratings.en.md
     #     - Features/referrals.en.md
     #     - Features/memberships.en.md
-    #     - Safety:
-    #         - Features/Safety/sos.en.md
-    #         - Features/Safety/index.en.md
-    #         - Features/Safety/verification.en.md
-    #         - Features/Safety/trusted_contacts.en.md
-    #         - Features/Safety/pin_prompt.en.md
-    #         - Features/Safety/silent_mode.en.md
 
 theme:
   name: material

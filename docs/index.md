@@ -1,11 +1,5 @@
 # Welcome
 
-!!! warning "Documentation not complete"
-
-    These documentations are not complete yet. Please check back in a few days. Thank you for your understanding, and sorry for the inconvenience.
-
-    In the meantime, please feel free to [email your questions to us](mailto:contact@apogee.codes).
-
 ![Apogee Logo](./images/transparent-colored.png){ align="left" width="30%" }
 
 Welcome to Apogee Playground!
@@ -17,3 +11,9 @@ Welcome to the world's first playground!
 [:fontawesome-solid-chevron-right: Get Started](Getting_Started/index.en.md){ .md-button .md-button--primary }
 
 [:fontawesome-solid-question: Frequently Asked Questions](faq.en.md){ .md-button }
+
+If you were unable to find the answer you were looking for, please feel free to [email your questions to us](mailto:contact@apogee.codes).
+
+---
+
+*The information provided on this web page is intended for informational purposes only and may not be applicable in your country, region, or city. It is subject to change and may be updated without notice.*
