@@ -16,16 +16,8 @@ Meetings, physical or virtual, between two or more users are called **"Sessions"
 
 ## Multi-expresser Session
 
-!!! warning "Not implemented yet"
-
-    This feature has not been implemented yet
+**Multi-expresser Sessions** are meetings between one [explorer](user_modes.en.md#explorer) and multiple [expressers](user_modes.en.md#expresser).
 
 ## Multi-explorer Session
 
 **Multi-explorer Sessions** are sessions with two or more explorers. Not all sessions can be multi-explorer, as it is up to the [expresser](user_modes.en.md#expresser) to enable/disable multi-explorer for an [expression](../Getting_Started/Expressing_Yourself/expressions.en.md).
-
-## Event Session
-
-!!! warning "Not implemented yet"
-
-    This feature has not been implemented yet
