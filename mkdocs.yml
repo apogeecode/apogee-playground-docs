@@ -80,6 +80,7 @@ nav:
         - Features/ratings.en.md
     #     - Features/referrals.en.md
     #     - Features/memberships.en.md
+        - Features/themes.en.md
 
 theme:
   name: material
