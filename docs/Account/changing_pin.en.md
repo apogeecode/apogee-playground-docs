@@ -5,3 +5,11 @@
 3. Tap on the **":material-security: Security"**
 4. [Enable the PIN prompt](../Getting_Started/LORICE.en.md#enabling-pin-prompt) if it is not enabled
 5. Tap on the PIN field, type your new PIN
+
+??? example "Tutorial"
+
+    <figure class="video_container">
+    <video width="100%" controls="true" autoplay="true" loop="true" allowfullscreen="true">
+        <source src="/videos/pin-prompt.mp4" type="video/mp4">
+    </video>
+    </figure>

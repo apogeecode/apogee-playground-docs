@@ -10,6 +10,14 @@ You will be receiving a PIN prompt periodically during a [session](../Features/s
 
 ## Setting Up PIN Prompt
 
+??? example "Tutorial"
+
+    <figure class="video_container">
+    <video width="100%" controls="true" autoplay="true" loop="true" allowfullscreen="true">
+        <source src="/videos/pin-prompt.mp4" type="video/mp4">
+    </video>
+    </figure>
+
 ### Enabling PIN Prompt
 
 1. If you are not on the home screen of the app, please navigate there using the :material-arrow-left: button on the top-left corner of the screen, or by tapping the back button of your device

@@ -9,6 +9,14 @@ Expressions have 2 prices you can set:
 - Physical price per hour
 - Virtual price per 30 minutes (optional)
 
+??? example "Tutorial"
+
+    <figure class="video_container">
+    <video width="100%" controls="true" autoplay="true" loop="true" allowfullscreen="true">
+        <source src="/videos/add-expression.mp4" type="video/mp4">
+    </video>
+    </figure>
+
 ## Adding An Expression
 
 1. Open Apogee Playground and choose the [Express Playground](../choosing_your_playground.en.md#express). If you are on the [Explore Playground](../choosing_your_playground.en.md#explore), please read more about [Changing Your Playground](../choosing_your_playground.en.md#changing-your-playground)

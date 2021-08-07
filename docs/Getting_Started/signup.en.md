@@ -16,6 +16,14 @@
         - Able to make any type of request
         - Visible on the app
 
+??? example "Tutorial"
+
+    <figure class="video_container">
+    <video width="100%" controls="true" autoplay="true" loop="true" allowfullscreen="true">
+        <source src="/videos/signup.mp4" type="video/mp4">
+    </video>
+    </figure>
+
 ## Password Requirements
 
 !!! danger

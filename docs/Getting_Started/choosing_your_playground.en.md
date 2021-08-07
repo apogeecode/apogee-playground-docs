@@ -2,7 +2,7 @@
 
 There are two playgrounds, *or user modes*, on Apogee Playground: [Express](#express) and [Explore](#explore). You can choose your playground any time, or every time you open the app.
 
-??? example
+??? example "Tutorial"
 
     ![Choose Your Playground Screen](../images/screenshots/choose_playground.png)
 
@@ -32,14 +32,25 @@ Unless you have disabled "Choose Playground" (Learn more below: [Disabling The "
 
 1. If you are not on the home screen of the app, please navigate there using the :material-arrow-left: button on the top-left corner of the screen, or by tapping the back button of your device
 2. Once you are on the home screen, tap the :material-menu: button on the top-left corner of the screen to open the menu
-3. Tap on the **":material-cog: Settings"** button on the bottom-left corner of the menu
-4. Tap on the **"Switch Mode"** button
-5. Choose your playground
+3. Tap on the **"Switch Role"** button
+4. Choose your playground
+
+??? example "Tutorial"
+
+    <figure class="video_container">
+    <video width="100%" controls="true" autoplay="true" loop="true" allowfullscreen="true">
+        <source src="/videos/change-playground.mp4" type="video/mp4">
+    </video>
+    </figure>
 
 ## Disabling The "Choose Playground" Prompt
 
 You can disable the *"Choose Playground"* screen by checking the **":material-checkbox-marked: Don't ask again"** box at the bottom of the *"Choose Playground"* screen.
 
-??? example
+??? example "Tutorial"
 
-    ![Choose Your Playground Screen](../images/screenshots/disable_choose_playground.png)
+    <figure class="video_container">
+    <video width="100%" controls="true" autoplay="true" loop="true" allowfullscreen="true">
+        <source src="/videos/disable-choose-playground-prompt.mp4" type="video/mp4">
+    </video>
+    </figure>

@@ -9,3 +9,11 @@
     - Gender
     - Profile Photo
 5. Tap on the **"Save"** button on the top-right corner to save the changes
+
+??? example "Tutorial"
+
+    <figure class="video_container">
+    <video width="100%" controls="true" autoplay="true" loop="true" allowfullscreen="true">
+        <source src="/videos/update-profile.mp4" type="video/mp4">
+    </video>
+    </figure>
