@@ -92,11 +92,15 @@ No one can demand a refund from a user of the app. They must [contact us](mailto
 
 ### Why do I need to verify my identity?
 
-We are doing our best to provide a safe and trust-based platform to our users. In order to establish this trust between our users, we verify the identities of everyone on our platform.
+We are doing our best to provide a safe and trust-based platform to our users. In order to establish this trust between our users, we offer identity verification option to all of our users.
 
 ???+ info
 
     Learn more about [Verification](Getting_Started/installation.en.md)
+
+### What does the :material-check-decagram: symbol next to a user's name mean?
+
+The **:material-check-decagram:** symbol means that the user is verified.
 
 ### How is my safety being checked?
 
@@ -112,7 +116,7 @@ You will be setting a PIN during the [Sign Up](Getting_Started/signup.en.md). Yo
 
 ### What are the processes of verifying users?
 
-During the [sign-up](Getting_Started/signup.en.md), you will be asked to verify your identity using a document; such as your passport, ID, or drivers license. After your document is verified, your identity will be verified by our team in 5 working days.
+During the [sign-up](Getting_Started/signup.en.md) or once you decide to verify your identity, you will be asked for your identity document; such as your passport, ID, or drivers license. After your document is verified, your identity will be verified by our team in 5 working days.
 
 ### Why should I trust this process?
 

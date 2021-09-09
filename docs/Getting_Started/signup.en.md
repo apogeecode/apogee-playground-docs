@@ -6,15 +6,9 @@
 4. Tap on the pink area. You can either choose a profile picture from your gallery, or take a new one. After editing your profile picture, tap the **"Next"** button to continue
 5. For identity verification; please follow the instructions on your screen, scan your document, and wait. Digital identity verification might take a few minutes to complete. After the digital verification is complete, our team will be verifying your account in a few working days
 
-    ???+ warning "Skipping the verification process"
+    ???+ info "Skipping the verification process"
 
-        You can also skip the verification for now, however you will not be able to use most features of the app until your identity is verified.
-
-        You will not be:
-
-        - Able to go online
-        - Able to make any type of request
-        - Visible on the app
+        You can also skip the verification for now, and verify your identity later on.
 
 ??? example "Tutorial"
 
