@@ -18,24 +18,6 @@ The purpose of this privacy notice is to explain to you in the clearest way poss
 
 **Please read this privacy notice carefully, as it will help you understand what we do with the information that we collect.**
 
-## TABLE OF CONTENTS
-
-1. WHAT INFORMATION DO WE COLLECT? (#infocollect)
-2. HOW DO WE USE YOUR INFORMATION? (#infouse)
-3. WILL YOUR INFORMATION BE SHARED WITH ANYONE? (#infoshare)
-4. WHO WILL YOUR INFORMATION BE SHARED WITH? (#whoshare)
-5. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES? (#cookies)
-6. HOW DO WE HANDLE YOUR SOCIAL LOGINS? (#sociallogins)
-7. HOW LONG DO WE KEEP YOUR INFORMATION? (#inforetain)
-8. HOW DO WE KEEP YOUR INFORMATION SAFE? (#infosafe)
-9. DO WE COLLECT INFORMATION FROM MINORS? (#infominors)
-10. WHAT ARE YOUR PRIVACY RIGHTS? (#privacyrights)
-11. CONTROLS FOR DO-NOT-TRACK FEATURES (#DNT)
-12. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS? (#caresidents)
-13. DO WE MAKE UPDATES TO THIS NOTICE? (#policyupdates)
-14. HOW CAN YOU CONTACT US ABOUT THIS NOTICE? (#contact)
-15. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU? (#request)
-
 ## 1. WHAT INFORMATION DO WE COLLECT?
 
 ### Personal information you disclose to us
