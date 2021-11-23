@@ -22,23 +22,26 @@ You will be receiving a PIN prompt periodically during a [session](../Features/s
 
 1. If you are not on the home screen of the app, please navigate there using the :material-arrow-left: button on the top-left corner of the screen, or by tapping the back button of your device
 2. Once you are on the home screen, tap the :material-menu: button on the top-left corner of the screen to open the menu
-3. Tap on the **":material-security: Security"**
-4. Toggle on the PIN prompt by tapping on the :material-toggle-off:
+3. Tap on the **":material-cog: Settings"**
+4. Tap on the **":material-security: Safety"**
+5. Toggle on the PIN prompt by tapping on the :material-toggle-off:
 
 ### Disabling PIN Prompt
 
 1. If you are not on the home screen of the app, please navigate there using the :material-arrow-left: button on the top-left corner of the screen, or by tapping the back button of your device
 2. Once you are on the home screen, tap the :material-menu: button on the top-left corner of the screen to open the menu
-3. Tap on the **":material-security: Security"**
-4. Toggle off the PIN prompt by tapping on the :material-toggle-on:
+3. Tap on the **":material-cog: Settings"**
+4. Tap on the **":material-security: Safety"**
+5. Toggle off the PIN prompt by tapping on the :material-toggle-on:
 
 ### Changing PIN Prompt Interval
 
 1. If you are not on the home screen of the app, please navigate there using the :material-arrow-left: button on the top-left corner of the screen, or by tapping the back button of your device
 2. Once you are on the home screen, tap the :material-menu: button on the top-left corner of the screen to open the menu
-3. Tap on the **":material-security: Security"**
-4. [Enable the PIN prompt](#enabling-pin-prompt) if it is not enabled
-5. Tap on the PIN Interval field and type your desired interval
+3. Tap on the **":material-cog: Settings"**
+4. Tap on the **":material-security: Safety"**
+5. [Enable the PIN prompt](#enabling-pin-prompt) if it is not enabled
+6. Tap on the PIN Interval field and type your desired interval
 
 ## Deactivating PIN Prompt
 

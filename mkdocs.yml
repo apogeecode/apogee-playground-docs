@@ -49,6 +49,7 @@ nav:
     - faq.en.md
     - guidelines.en.md
     - troubleshooting.en.md
+    - privacy-policy.md
     - Getting Started:
         - Getting_Started/index.en.md
         - Getting_Started/installation.en.md
@@ -81,6 +82,11 @@ nav:
     #     - Features/referrals.en.md
     #     - Features/memberships.en.md
         - Features/themes.en.md
+        # - Features/verification.en.md
+    - Legal:
+        - Legal/privacy-policy.en.md
+        - Legal/cookie-policy.en.md
+        - Legal/disclaimer.en.md
 
 theme:
   name: material
@@ -168,7 +174,7 @@ extra:
       name: PlayApogee on Discord
 
     - icon: fontawesome/brands/telegram
-      link: https://t.me/apogeecode
+      link: https://t.me/playapogee
       name: PlayApogee on Telegram
 
     - icon: fontawesome/brands/tumblr

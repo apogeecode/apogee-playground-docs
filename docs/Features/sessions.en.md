@@ -6,7 +6,7 @@ Meetings, physical or virtual, between two or more users are called **"Sessions"
 
 1. If you are not on the home screen of the app, please navigate there using the :material-arrow-left: button on the top-left corner of the screen, or by tapping the back button of your device
 2. Once you are on the home screen, tap the :material-menu: button on the top-left corner of the screen to open the menu
-3. Tap on the **":material-security: Security"**
+3. Tap on the **":material-history: My Sessions"**
 
 ??? example "Tutorial"
 
@@ -15,6 +15,12 @@ Meetings, physical or virtual, between two or more users are called **"Sessions"
         <source src="/videos/view-sessions.mp4" type="video/mp4">
     </video>
     </figure>
+
+### Returning to Your Ongoing Session
+
+1. [View your session history](#viewing-your-session-history)
+2. The ongoing session should appear at the top of the list
+3. Tap on the ongoing session
 
 ## Session Types
 

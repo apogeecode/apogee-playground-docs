@@ -32,6 +32,10 @@ To cancel the session, tap on the **"Cancel Session"** button, and then select o
 
 ### Donating
 
+!!! warning "Temporarily Unavailable"
+
+    Donations on the app are temporarily unavailable.
+
 You can donate to charities and organizations by:
 
 1. Select or type the amount you would like to donate

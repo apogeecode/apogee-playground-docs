@@ -2,9 +2,7 @@
 
 ## How do I install the app?
 
-You can install Apogee Playground from [Google Play](https://play.google.com/store/apps/details?id=app.playapogee.playground){:target="_blank"} or from App Store (coming soon).
-
-[![Get it on Google Play](./images/google-play-badge.png){ width=256 }](https://play.google.com/store/apps/details?id=app.playapogee.playground&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1){:target="_blank"}
+You can install Apogee Playground from [Google Play](https://play.google.com/store/apps/details?id=app.playapogee.playground){:target="_blank"} or from [App Store](https://apps.apple.com/us/app/apogee-playground/id1573747202).
 
 ???+ info
 
@@ -24,7 +22,7 @@ Apogee Playground helps you to love yourself by the ways you express yourself, f
 - You can [explore](Getting_Started/Exploring_Expressions/index.en.md), and find new interests
 - You can find what interests you to engage in a [session](Features/sessions.en.md) (meeting between [expresser](Features/user_modes.en.md#expresser) and [explorer](Features/user_modes.en.md#explorer))
 - You can [search](Getting_Started/Exploring_Expressions/filtering_and_search.en.md#search) for people with similar interests to spend time with therefore having a higher chance of meeting the right person to vibe with and potentially a soulmate
-- You can [donate to a charity](Getting_Started/Exploring_Expressions/having_session.en.md#donating) and support a cause you care about
+- **[Temporarily Unavailable]** You can [donate to a charity](Getting_Started/Exploring_Expressions/having_session.en.md#donating) and support a cause you care about
 
 ### What can I do to make money on the app?
 
@@ -94,9 +92,9 @@ No one can demand a refund from a user of the app. They must [contact us](mailto
 
 We are doing our best to provide a safe and trust-based platform to our users. In order to establish this trust between our users, we offer identity verification option to all of our users.
 
-???+ info
+<!-- ???+ info
 
-    Learn more about [Verification](Getting_Started/installation.en.md)
+    Learn more about [Verification](Features/verification.en.md) -->
 
 ### What does the :material-check-decagram: symbol next to a user's name mean?
 
@@ -148,3 +146,7 @@ Here are a few examples:
 - Discriminating against someone based on traits such as age, color, disability, gender identity, marital status, national origin, race, religion, sex, sexual orientation, or any other characteristic protected under relevant law
 - Using the app to commit any crime
 - Sexual assault or sexual misconduct
+
+## How Do I Return To My Ongoing Session?
+
+Please learn more about this at [Returning To Your Ongoing Session](Features/sessions.en.md#returning-to-your-ongoing-session)

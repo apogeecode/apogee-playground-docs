@@ -9,7 +9,7 @@ On Apogee Playground, you can explore [expressions](../Expressing_Yourself/expre
 
 ## Browsing The Expression List
 
-You can explore nearby [expressions](../Expressing_Yourself/expressions.en.md) using the list on the dashboard/home page. If you would like to explore [expressions](../Expressing_Yourself/expressions.en.md) without the distance restriction (*non-nearby [expressions](../Expressing_Yourself/expressions.en.md) from around the world*), please [search](filtering_and_search.en.md#search), or set the [location filter](filtering_and_search.en.md#location).
+You can explore [expressions](../Expressing_Yourself/expressions.en.md) using the list on the dashboard/home page. If you would like to explore nearby [expressions](../Expressing_Yourself/expressions.en.md), please use the [search](filtering_and_search.en.md#search) and [filter](filtering_and_search.en.md#filtering) feature.
 
 ### Viewing The Details Of An Expression
 

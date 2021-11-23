@@ -28,6 +28,10 @@ To cancel the [session](../../Features/sessions.en.md), tap on the **"Cancel Ses
 
 ### Donating
 
+!!! warning "Temporarily Unavailable"
+
+    Donations on the app are temporarily unavailable.
+
 You can donate to charities and organizations by:
 
 1. Select or type the amount you would like to donate

@@ -4,6 +4,10 @@
 
 ### I have found a bug (an error)
 
+!!! tip I just want the bug gone
+
+    Please try uninstalling and reinstalling the app. This may, or may not work.
+
 If you have found a bug (an error), it is best to [contact the exterminators](mailto:feedback@apogee.codes). Please [write us an email](mailto:feedback@apogee.codes) and include the following:
 
 - Screenshot(s) of the bug/error, screen recordings are also accepted
@@ -36,6 +40,10 @@ This may happen if:
 
 Please try scanning your document again by tapping the **"Scan"** button.
 
+### Can't Upload Documents Manually
+
+This is a known issue with our identity verification provider's system. We are currently looking for alternative providers. We are sorry for the inconvenience, thank you for your understanding.
+
 ## Expressing/Exploring
 
 **Please check your internet connection first.**
@@ -45,3 +53,8 @@ Please try scanning your document again by tapping the **"Scan"** button.
 This may happen if you, or the [explorer](Features/user_modes.en.md#Explorer) have [ended the session](Getting_Started/Expressing_Yourself/having_session.en.md#ending-the-session) in the first 15 minutes, or before the last 15 minutes.
 
 Please read more about [ending the session](Getting_Started/Expressing_Yourself/having_session.en.md#ending-the-session) for more information.
+
+### I can't end the session
+
+1. Please try closing and reopening the app.
+2. Go to **":material-history: My Sessions"**
