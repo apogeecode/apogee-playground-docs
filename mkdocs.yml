@@ -83,6 +83,7 @@ nav:
     #     - Features/memberships.en.md
         - Features/themes.en.md
         # - Features/verification.en.md
+        - Features/affiliations.en.md
     - Legal:
         - Legal/privacy-policy.en.md
         - Legal/cookie-policy.en.md

@@ -37,6 +37,10 @@ Expressions have 2 prices you can set:
 
 6. When you are done adding/editing your images, tap on the **"Next"** button to finish adding your expression
 
+!!! question "Looking for Referral Affiliation Settings?"
+
+    You can learn more about [Referral Affiliations here](../../Features/affiliations.en.md)
+
 ### Enabling Multi-Explorer
 
 You can let multiple [explorers](../../Features/user_modes.en.md#explorer) to join a [session](../../Features/sessions.en.md) by enabling [multi-explorer](../../Features/sessions.en.md#multi-explorer). It is possible to:
