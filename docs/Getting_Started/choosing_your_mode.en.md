@@ -8,7 +8,7 @@ There are two modes, *or user modes*, on Apogee Playground: [Express](#express) 
 
 ## Express
 
-If you would like to express yourself and do what you love/feel like to earn money, this is your mode. People who are interested in what you are doing (your expression) will be paying to spend time with you. You will be able to find and connect with people with the same interests.
+If you would like to express yourself and do what you love/feel like to earn money, this is the mode for you! People who are interested in what you are doing (your expression) will be paying to spend time with you. You will be able to find and connect with people with the same interests.
 
 ???+ question "No ideas?"
 
@@ -20,7 +20,7 @@ If you would like to express yourself and do what you love/feel like to earn mon
 
 ## Explore
 
-If you are looking to find interesting people or people who can help you in any way, this is your mode. You will be paying people on an hourly basis.
+If you are looking to find interesting people or people who can help you in any way, this is the mode for you! You will be paying people on an hourly basis.
 
 [:fontawesome-solid-chevron-right: Getting started with Exploring Expressions](Exploring_Expressions/index.en.md){ .md-button .md-button--primary }
 
