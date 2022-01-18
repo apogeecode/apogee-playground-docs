@@ -24,12 +24,12 @@ Please follow the following steps to get started with Apogee Playground.
 
 !!! tip
 
-    Take a look at [Playgrounds (User Modes)](../Features/user_modes.en.md) for more information on [Choosing Your Playground](choosing_your_playground.en.md).
+    Take a look at [Modes (User Modes)](../Features/user_modes.en.md) for more information on [Choosing Your Mode](choosing_your_mode.en.md).
 
 1. [Installation](installation.en.md)
 2. [Signing Up](signup.en.md)
 3. [Signing In](signin.en.md)
-4. [Choosing Your Playground](choosing_your_playground.en.md)
+4. [Choosing Your Mode](choosing_your_mode.en.md)
 5. [Express Yourself](Expressing_Yourself/index.en.md) or [Explore Expressions](Exploring_Expressions/index.en.md)
 
 *[this one]: to view the abbreviation, or more information

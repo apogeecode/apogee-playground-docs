@@ -19,7 +19,7 @@ Expressions have 2 prices you can set:
 
 ## Adding An Expression
 
-1. Open Apogee Playground and choose the [Express Playground](../choosing_your_playground.en.md#express). If you are on the [Explore Playground](../choosing_your_playground.en.md#explore), please read more about [Changing Your Playground](../choosing_your_playground.en.md#changing-your-playground)
+1. Open Apogee Playground and choose the [Express Mode](../choosing_your_mode.en.md#express). If you are on the [Explore Mode](../choosing_your_mode.en.md#explore), please read more about [Changing Your Mode](../choosing_your_mode.en.md#changing-your-mode)
 2. Tap on the green **":fontawesome-solid-smile-beam: Expressions"** card to open the list of your expressions
 3. Tap on the **"Add Expression"** button on the top-right corner of the screen
 4. Enter the title, description, hourly price (*per 1 hour*) for [Physical Sessions](../../Features/sessions.en.md#physical-session), and optionally enter the half-hourly price (*per 30 minutes*) for [Virtual Sessions](../../Features/sessions.en.md#virtual-session). You can [enable multi-explorer](#enabling-multi-explorer) for a [session](../../Features/sessions.en.md) as well. Tap on the **"Next"** button when you fill in all the fields
@@ -77,7 +77,7 @@ The total discount percentage is 15%, as 3 [explorers](../../Features/user_modes
 
 ## Activating/Deactivating An Expression
 
-1. Open Apogee Playground and choose the [Express Playground](../choosing_your_playground.en.md#express). If you are on the [Explore Playground](../choosing_your_playground.en.md#explore), please read more about [Changing Your Playground](../choosing_your_playground.en.md#changing-your-playground)
+1. Open Apogee Playground and choose the [Express Mode](../choosing_your_mode.en.md#express). If you are on the [Explore Mode](../choosing_your_mode.en.md#explore), please read more about [Changing Your Mode](../choosing_your_mode.en.md#changing-your-mode)
 2. Tap on the green **":fontawesome-solid-smile-beam: Expressions"** card to open the list of your expressions
 3. Tap on the **"Activate Expressions"** button on the bottom of the screen, scroll sideways (horizontally) to browse your expressions
 4. Tap to select/deselect expressions you would like to activate. You can have maximum 3 active expressions
@@ -85,26 +85,26 @@ The total discount percentage is 15%, as 3 [explorers](../../Features/user_modes
 
 ### Deactivating An Expression (Alternative)
 
-1. Open Apogee Playground and choose the [Express Playground](../choosing_your_playground.en.md#express). If you are on the [Explore Playground](../choosing_your_playground.en.md#explore), please read more about [Changing Your Playground](../choosing_your_playground.en.md#changing-your-playground)
+1. Open Apogee Playground and choose the [Express Mode](../choosing_your_mode.en.md#express). If you are on the [Explore Mode](../choosing_your_mode.en.md#explore), please read more about [Changing Your Mode](../choosing_your_mode.en.md#changing-your-mode)
 2. Tap on the green **":fontawesome-solid-smile-beam: Expressions"** card to open the list of your expressions
 3. Above the **"Activate Expressions"** button, you will see your active expressions. Tap on the :material-close: icon next to their names to deactivate
 
 ## Viewing An Expression
 
-1. Open Apogee Playground and choose the [Express Playground](../choosing_your_playground.en.md#express). If you are on the [Explore Playground](../choosing_your_playground.en.md#explore), please read more about [Changing Your Playground](../choosing_your_playground.en.md#changing-your-playground)
+1. Open Apogee Playground and choose the [Express Mode](../choosing_your_mode.en.md#express). If you are on the [Explore Mode](../choosing_your_mode.en.md#explore), please read more about [Changing Your Mode](../choosing_your_mode.en.md#changing-your-mode)
 2. Tap on the green **":fontawesome-solid-smile-beam: Expressions"** card to open the list of your expressions
 3. Tap on the expression you would like to view
 
 ## Sharing An Expression
 
-1. Open Apogee Playground and choose the [Express Playground](../choosing_your_playground.en.md#express). If you are on the [Explore Playground](../choosing_your_playground.en.md#explore), please read more about [Changing Your Playground](../choosing_your_playground.en.md#changing-your-playground)
+1. Open Apogee Playground and choose the [Express Mode](../choosing_your_mode.en.md#express). If you are on the [Explore Mode](../choosing_your_mode.en.md#explore), please read more about [Changing Your Mode](../choosing_your_mode.en.md#changing-your-mode)
 2. Tap on the green **":fontawesome-solid-smile-beam: Expressions"** card to open the list of your expressions
 3. Tap on the **:material-share-variant:** icon next to the expression you want to share, the link to your expression will be copied to your clipboard automatically
 4. Choose how you would like to share your expression
 
 ## Editing An Expression
 
-1. Open Apogee Playground and choose the [Express Playground](../choosing_your_playground.en.md#express). If you are on the [Explore Playground](../choosing_your_playground.en.md#explore), please read more about [Changing Your Playground](../choosing_your_playground.en.md#changing-your-playground)
+1. Open Apogee Playground and choose the [Express Mode](../choosing_your_mode.en.md#express). If you are on the [Explore Mode](../choosing_your_mode.en.md#explore), please read more about [Changing Your Mode](../choosing_your_mode.en.md#changing-your-mode)
 2. Tap on the green **":fontawesome-solid-smile-beam: Expressions"** card to open the list of your expressions
 3. Tap on the **:material-dots-vertical:** icon next to the expression you would like to edit to open the menu
 4. Select **"Edit"** on the menu
@@ -112,7 +112,7 @@ The total discount percentage is 15%, as 3 [explorers](../../Features/user_modes
 
 ### Managing The Images Of An Expression
 
-1. Open Apogee Playground and choose the [Express Playground](../choosing_your_playground.en.md#express). If you are on the [Explore Playground](../choosing_your_playground.en.md#explore), please read more about [Changing Your Playground](../choosing_your_playground.en.md#changing-your-playground)
+1. Open Apogee Playground and choose the [Express Mode](../choosing_your_mode.en.md#express). If you are on the [Explore Mode](../choosing_your_mode.en.md#explore), please read more about [Changing Your Mode](../choosing_your_mode.en.md#changing-your-mode)
 2. Tap on the green **":fontawesome-solid-smile-beam: Expressions"** card to open the list of your expressions
 3. Tap on the expression you would like manage the images of, or tap on the **:material-dots-vertical:** icon next to the expression and then select the **"Manage Images"** option (*skip step 4 in this case*)
 4. Tap on the **"Manage Images"** button on the bottom of the screen
@@ -121,7 +121,7 @@ The total discount percentage is 15%, as 3 [explorers](../../Features/user_modes
 
 ## Deleting An Expression
 
-1. Open Apogee Playground and choose the [Express Playground](../choosing_your_playground.en.md#express). If you are on the [Explore Playground](../choosing_your_playground.en.md#explore), please read more about [Changing Your Playground](../choosing_your_playground.en.md#changing-your-playground)
+1. Open Apogee Playground and choose the [Express Mode](../choosing_your_mode.en.md#express). If you are on the [Explore Mode](../choosing_your_mode.en.md#explore), please read more about [Changing Your Mode](../choosing_your_mode.en.md#changing-your-mode)
 2. Tap on the green **":fontawesome-solid-smile-beam: Expressions"** card to open the list of your expressions
 3. Tap on the **:material-dots-vertical:** icon next to the expression you would like to delete to open the menu
 4. Select **"Delete"** on the menu

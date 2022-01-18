@@ -9,10 +9,10 @@ To earn money, as long as what you are doing abides common sense, the law in you
 
 ## Going Online
 
-1. Open Apogee Playground and choose the [Express Playground](../choosing_your_playground.en.md#express). If you are on the [Explore Playground](../choosing_your_playground.en.md#explore), please read more about [Changing Your Playground](../choosing_your_playground.en.md#changing-your-playground)
+1. Open Apogee Playground and choose the [Express Mode](../choosing_your_mode.en.md#express). If you are on the [Explore Mode](../choosing_your_mode.en.md#explore), please read more about [Changing Your Mode](../choosing_your_mode.en.md#changing-your-mode)
 2. Slide the slider at the bottom of the page to the right to go online.
 
 ## Going Offline
 
-1. Open Apogee Playground and choose the [Express Playground](../choosing_your_playground.en.md#express). If you are on the [Explore Playground](../choosing_your_playground.en.md#explore), please read more about [Changing Your Playground](../choosing_your_playground.en.md#changing-your-playground)
+1. Open Apogee Playground and choose the [Express Mode](../choosing_your_mode.en.md#express). If you are on the [Explore Mode](../choosing_your_mode.en.md#explore), please read more about [Changing Your Mode](../choosing_your_mode.en.md#changing-your-mode)
 2. Slide the slider at the bottom of the page to the left to go offline.
