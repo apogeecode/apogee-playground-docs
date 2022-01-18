@@ -4,8 +4,9 @@
 2. Once you are on the home screen, tap the :material-menu: button on the top-left corner of the screen to open the menu
 3. Tap on the **":material-cog: Settings"**
 4. Tap on the **":material-security: Safety"**
-5. [Enable the PIN prompt](../Getting_Started/LORICE.en.md#enabling-pin-prompt) if it is not enabled
-6. Tap on the PIN field, type your new PIN
+5. Select the **":material-numeric: Change PIN"** option from the list
+6. Enter your current PIN, your new PIN and confirm your new PIN
+7. Tap on the **"Change PIN"** button to save your new PIN
 
 <!-- ??? example "Tutorial"
 

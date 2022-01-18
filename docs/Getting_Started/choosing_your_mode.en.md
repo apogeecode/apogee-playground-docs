@@ -4,7 +4,7 @@ There are two modes, *or user modes*, on Apogee Playground: [Express](#express) 
 
 ??? example "Tutorial"
 
-    ![Choose Your Mode Screen](../images/screenshots/choose_mode.png)
+    ![Choose Your Mode Screen](../images/screenshots/change_mode.jpg)
 
 ## Express
 
@@ -33,12 +33,4 @@ You can always change your mode when the app starts, or when you [sign in](signi
 1. If you are not on the home screen of the app, please navigate there using the :material-arrow-left: button on the top-left corner of the screen, or by tapping the back button of your device
 2. Once you are on the home screen, tap the :material-menu: button on the top-left corner of the screen to open the menu
 3. Tap on the **"Switch mode"** button
-4. Choose your mode
-
-??? example "Tutorial"
-
-    <figure class="video_container">
-    <video width="100%" controls="true" autoplay="true" loop="true" allowfullscreen="true">
-        <source src="/videos/change-mode.mp4" type="video/mp4">
-    </video>
-    </figure>
+4. [Choose your mode](#choosing-your-mode)

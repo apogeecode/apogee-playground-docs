@@ -24,7 +24,8 @@ You will be receiving a PIN prompt periodically during a [session](../Features/s
 2. Once you are on the home screen, tap the :material-menu: button on the top-left corner of the screen to open the menu
 3. Tap on the **":material-cog: Settings"**
 4. Tap on the **":material-security: Safety"**
-5. Toggle on the PIN prompt by tapping on the :material-toggle-off:
+5. Select the **":material-lock-clock: PIN Prompt Settings"** option from the list
+6. Toggle on the PIN prompt by tapping on the **"Enable PIN Prompt"** button
 
 ### Disabling PIN Prompt
 
@@ -32,7 +33,9 @@ You will be receiving a PIN prompt periodically during a [session](../Features/s
 2. Once you are on the home screen, tap the :material-menu: button on the top-left corner of the screen to open the menu
 3. Tap on the **":material-cog: Settings"**
 4. Tap on the **":material-security: Safety"**
-5. Toggle off the PIN prompt by tapping on the :material-toggle-on:
+5. Select the **":material-lock-clock: PIN Prompt Settings"** option from the list
+6. Enter your current PIN below
+7. Toggle off the PIN prompt by tapping on the **"Disable PIN Prompt"** button
 
 ### Changing PIN Prompt Interval
 
@@ -40,8 +43,9 @@ You will be receiving a PIN prompt periodically during a [session](../Features/s
 2. Once you are on the home screen, tap the :material-menu: button on the top-left corner of the screen to open the menu
 3. Tap on the **":material-cog: Settings"**
 4. Tap on the **":material-security: Safety"**
-5. [Enable the PIN prompt](#enabling-pin-prompt) if it is not enabled
-6. Tap on the PIN Interval field and type your desired interval
+5. Select the **":material-lock-clock: PIN Prompt Settings"** option from the list
+6. [Enable the PIN prompt](#enabling-pin-prompt) if it is not enabled
+7. Choose your desired PIN prompt interval (in minutes) using the slider
 
 ## Deactivating PIN Prompt
 

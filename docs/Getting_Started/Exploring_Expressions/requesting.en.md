@@ -13,6 +13,12 @@ Instant requests are requests sent by [explorers](../../Features/user_modes.en.m
 
 Unlike [instant requests](#instant-requests), booking requests are requests sent by [explorers](../../Features/user_modes.en.md#explorer) to the [expressers](../../Features/user_modes.en.md#expresser) have a [session](../../Features/sessions.en.md) **on a later date**.
 
+1. Slide the [expression](../Expressing_Yourself/expressions.en.md) to the right to reveal the **"Pre-book"** button, or tap on the buttons on the bottom of the [expression details](index.en.md##viewing-the-details-of-an-expression) page
+2. Choose your desired duration
+3. Choose your desired pre-booking type (*Meet* or *Call*)
+4. Choose a date, time and location
+5. Choose your desired payment method
+
 ## Requesting Multiple Expressers
 
 You can have a session with multiple [expressers](../../Features/user_modes.en.md#expresser). To request multiple [expressers](../../Features/user_modes.en.md#expresser):

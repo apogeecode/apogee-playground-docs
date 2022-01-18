@@ -31,7 +31,7 @@ You are able to give a portion of your earnings to the users who have [shared yo
 3. Tap on the **":fontawesome-solid-people-arrows: My Affiliations"** button
 4. Tap on the :material-toggle-on: toggle at the center of the page to disable **Affiliations**
 
-### Editing Affiliation Commission
+### Changing Affiliation Commission
 
 1. If you are not on the home screen of the app, please navigate there using the :material-arrow-left: button on the top-left corner of the screen, or by tapping the back button of your device
 2. Once you are on the home screen, tap the :material-menu: button on the top-left corner of the screen to open the menu

@@ -11,6 +11,10 @@ On Apogee Playground, you can explore [expressions](../Expressing_Yourself/expre
 
 You can explore [expressions](../Expressing_Yourself/expressions.en.md) using the list on the dashboard/home page. If you would like to explore nearby [expressions](../Expressing_Yourself/expressions.en.md), please use the [search](filtering_and_search.en.md#search) and [filter](filtering_and_search.en.md#filtering) feature.
 
+### Viewing The Profile Of An Expresser
+
+You can view the profile of an [expresser](../../Features/user_modes.en.md#expresser) by tapping on their name/profile picture.
+
 ### Viewing The Details Of An Expression
 
 You can view the details and the pictures of an expression by tapping on the expression. Slide the pictures left or right to view more.
