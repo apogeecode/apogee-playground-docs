@@ -26,7 +26,7 @@ If you are looking to find interesting people or people who can help you in any 
 
 ## Changing Your Mode
 
-Unless you have disabled "Choose Mode" (Learn more below: [Disabling The "Choose Mode" Prompt](#disabling-the-choose-mode-prompt)), you can always change your mode when the app starts, or when you [sign in](signin.en.md).
+You can always change your mode when the app starts, or when you [sign in](signin.en.md).
 
 **If you are currently in the app, please follow the following steps:**
 
@@ -40,17 +40,5 @@ Unless you have disabled "Choose Mode" (Learn more below: [Disabling The "Choose
     <figure class="video_container">
     <video width="100%" controls="true" autoplay="true" loop="true" allowfullscreen="true">
         <source src="/videos/change-mode.mp4" type="video/mp4">
-    </video>
-    </figure>
-
-## Disabling The "Choose Mode" Prompt
-
-You can disable the *"Choose Mode"* screen by checking the **":material-checkbox-marked: Don't ask again"** box at the bottom of the *"Choose Mode"* screen.
-
-??? example "Tutorial"
-
-    <figure class="video_container">
-    <video width="100%" controls="true" autoplay="true" loop="true" allowfullscreen="true">
-        <source src="/videos/disable-choose-mode-prompt.mp4" type="video/mp4">
     </video>
     </figure>
